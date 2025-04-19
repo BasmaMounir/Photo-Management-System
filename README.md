@@ -9,4 +9,4 @@ A Java application for managing photos with metadata (tags, dates, locations).
 ## Technologies 🛠️
 - Java Collections Framework
 
-![UML](https://github.com/BasmaMounir/Photo-Management-System/blob/main/src/UML%20diagram.png)
+![UML](https://github.com/BasmaMounir/Photo-Management-System/blob/main/Blank%20diagram.png)
